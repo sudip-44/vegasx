@@ -1,1 +1,136 @@
 # vegasx
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Anuo's Vegas X Agent</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #0e0e0e;
+      color: white;
+    }
+    header {
+      background-color: #1a1a1a;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      color: #facc15;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    .cta-button {
+      background-color: #facc15;
+      color: black;
+      padding: 15px 25px;
+      border: none;
+      font-size: 18px;
+      cursor: pointer;
+      border-radius: 8px;
+      margin-top: 20px;
+    }
+    footer {
+      background-color: #1a1a1a;
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to Anuo's Vegas X Game Zone</h1>
+    <p>Your trusted sweepstakes and online casino agent</p>
+  </header>  <section>
+    <h2>Play Vegas X Games with Ease</h2>
+    <p>Fast credit loading, secure payouts, and 24/7 support. Join hundreds of players who trust us for their entertainment.</p>
+    <button class="cta-button" onclick="window.location.href='https://cashier.vegas-x.org'">Play Now</button>
+  </section>  <section>
+    <h2>How It Works</h2>
+    <ul>
+      <li>1. Contact us to create your player account</li>
+      <li>2. Load credits via CashApp, Zelle, or PayPal</li>
+      <li>3. Play and win in over 100 exciting games</li>
+      <li>4. Get fast payouts directly to your preferred method</li>
+    </ul>
+  </section>  <section>
+    <h2>Get in Touch</h2>
+    <p>Email: <a href="mailto:anuo.agent@gamingmail.com" style="color: #facc15;">anuo.agent@gamingmail.com</a></p>
+    <p>WhatsApp: <a href="https://wa.me/1234567890" style="color: #facc15;">+1 (234) 567-890</a></p>
+  </section>  <footer>
+    <p>&copy; 2025 Anuo's Vegas X Agent Platform. All rights reserved.</p>
+  </footer>
+</body>
+</html><!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Anuo's Vegas X Agent</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #0e0e0e;
+      color: white;
+    }
+    header {
+      background-color: #1a1a1a;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      color: #facc15;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    .cta-button {
+      background-color: #facc15;
+      color: black;
+      padding: 15px 25px;
+      border: none;
+      font-size: 18px;
+      cursor: pointer;
+      border-radius: 8px;
+      margin-top: 20px;
+    }
+    footer {
+      background-color: #1a1a1a;
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to Anuo's Vegas X Game Zone</h1>
+    <p>Your trusted sweepstakes and online casino agent</p>
+  </header>  <section>
+    <h2>Play Vegas X Games with Ease</h2>
+    <p>Fast credit loading, secure payouts, and 24/7 support. Join hundreds of players who trust us for their entertainment.</p>
+    <button class="cta-button" onclick="window.location.href='https://cashier.vegas-x.org'">Play Now</button>
+  </section>  <section>
+    <h2>How It Works</h2>
+    <ul>
+      <li>1. Contact us to create your player account</li>
+      <li>2. Load credits via CashApp, Zelle, or PayPal</li>
+      <li>3. Play and win in over 100 exciting games</li>
+      <li>4. Get fast payouts directly to your preferred method</li>
+    </ul>
+  </section>  <section>
+    <h2>Get in Touch</h2>
+    <p>Email: <a href="mailto:anuo.agent@gamingmail.com" style="color: #facc15;">anuo.agent@gamingmail.com</a></p>
+    <p>WhatsApp: <a href="https://wa.me/1234567890" style="color: #facc15;">+1 (234) 567-890</a></p>
+  </section>  <footer>
+    <p>&copy; 2025 Anuo's Vegas X Agent Platform. All rights reserved.</p>
+  </footer>
+</body>
+</html>
